@@ -1,0 +1,3 @@
+[submodule "Firebase_SDK"]
+	path = Firebase_SDK
+	url = https://sync.virgis.co.uk/ViRGiS/Firebase_SDK.git
